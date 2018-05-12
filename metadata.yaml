@@ -1,0 +1,34 @@
+_repo: Durch-W-ste-und-HaremGesammelte-Reiseromane-Band-I_29336
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: May, Karl
+    aliases:
+    - May, Karl Friedrich
+    - May, Carl
+    - Hohenthal, Karl
+    - Linden, E. von
+    birthdate: 1842
+    deathdate: 1912
+    gutenberg_agent_id: '1018'
+    url: http://www.gutenberg.org/2009/agents/1018
+    wikipedia: http://en.wikipedia.org/wiki/Karl_May
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2009-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29336'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+title: 'Durch Wüste und Harem
+
+  Gesammelte Reiseromane, Band I'
+url: http://www.gutenberg.org/ebooks/29336
