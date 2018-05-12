@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1018
     wikipedia: http://en.wikipedia.org/wiki/Karl_May
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29336#Durch-W-ste-und-HaremGesammelte-Reiseromane-Band-I
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2009-07-06'
 gutenberg_type: Text
